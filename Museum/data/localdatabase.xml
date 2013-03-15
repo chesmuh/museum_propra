@@ -1,0 +1,7 @@
+<de.museum.berleburg.datastorage.Database>
+  <host>localhost</host>
+  <port>3306</port>
+  <databaseName>museum</databaseName>
+  <username>museum</username>
+  <password>uni-siegen</password>
+</de.museum.berleburg.datastorage.Database>
